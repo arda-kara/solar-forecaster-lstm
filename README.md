@@ -81,7 +81,7 @@ The model achieves strong performance in forecasting solar activity:
 - Correlation: [Your correlation value]
 
 ![Training History](reports/figures/training_history.png)
-![Error Analysis](reports/figures/advanced_visualizations/error_distribution.png)
+![Error Analysis](reports/figures/error_distribution.png)
 
 ## License
 
