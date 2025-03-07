@@ -1,0 +1,13 @@
+Model Evaluation Results
+======================
+
+Mean Squared Error (MSE): 0.000000
+Root Mean Squared Error (RMSE): 0.000014
+Mean Absolute Error (MAE): 0.000004
+R-squared (R²): -0.085325
+Correlation: -0.099129
+Number of test samples: 140
+Min actual value: 0.000000
+Max actual value: 0.000118
+Min predicted value: 0.000001
+Max predicted value: 0.000005

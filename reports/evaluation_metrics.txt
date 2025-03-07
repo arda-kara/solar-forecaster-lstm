@@ -1,0 +1,9 @@
+Model Evaluation Results (2025-03-03 19:29:31)
+Date Range: 2020-01-01 to 2020-01-31
+Sequence Length: 24, Forecast Horizon: 12
+
+MSE: 0.000000
+RMSE: 0.000001
+MAE: 0.000000
+R²: 0.246035
+Correlation: 0.540519
